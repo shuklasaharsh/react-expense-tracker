@@ -1,7 +1,7 @@
 # React Expense Tracker
 
-```
-! This project is udner development
+```diff
+! This project is under development
 ```
 
 # Phases
